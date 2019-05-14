@@ -6,8 +6,8 @@ import tk.mybatis.spring.annotation.MapperScan;
 
 @SpringBootApplication
 @MapperScan(basePackages = "com.funtl.oauth2.resource.mapper")
-public class Oauth2ResourceApplication {
+public class OAuth2ResourceApplication {
     public static void main(String[] args) {
-        SpringApplication.run(Oauth2ResourceApplication.class, args);
+        SpringApplication.run(OAuth2ResourceApplication.class, args);
     }
 }

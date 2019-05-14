@@ -80,7 +80,7 @@
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <configuration>
-                    <mainClass>com.funtl.oauth2.Oauth2ResourceApplication</mainClass>
+                    <mainClass>com.funtl.oauth2.OAuth2ResourceApplication</mainClass>
                 </configuration>
             </plugin>
         </plugins>
